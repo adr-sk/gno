@@ -249,7 +249,7 @@ FLAGS
   -output-path ./genesis.json    the output path for the genesis.json
 ```
 
-## 3. Add the `examples` packages into the `genesis.json` (optional)
+### 3. Add the `examples` packages into the `genesis.json` (optional)
 
 This step is not necessarily required, however, using a Gno.land chain without the `examples` packages predeployed can
 present challenges with users who expect them to be present.
